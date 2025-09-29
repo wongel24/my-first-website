@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(252, 224, 253);
+    margin: 0;
+    padding: 0;
+
+}
+p{
+    font-size: larger;
+    color: rgb(106, 33, 240) ;
+    
+}
+img{
+    width: 200;
+    height: 400;
+}
